@@ -1,0 +1,71 @@
+# # # # # # # #
+#   K i k o   #
+# # # # # # # #
+
+# Basic
+name:               "Computational Sociology Lab"
+title:              "Computational Sociology Lab at the Korea Advanced Institute of Science and Technology"
+description:        "Computational Sociology Lab is a research group at the the Korea Advanced Institute of Science and Technology."
+
+
+# URL
+url:                https://computationalsociologylab.github.io/
+baseurl:            
+#baseurl:            "" #For Root Domain
+permalink:          /:year/:month/:day/:title.html
+
+# Markdown
+markdown:           kramdown
+
+# Highlighter
+highlighter:        rouge
+
+# Navigation
+nav:
+  - name:           "home"
+    href:           "/"
+  - name:           "about"
+    href:           "/about"
+  - name:           "publications"
+    href:           "/publication"
+  - name:           "projects"
+    href:           "/project"
+  - name:           "people"
+    href:           "/people"
+# - name:           "blog"
+#    href:           "/blog"
+# - name:           "abstracts"
+#   href:           "/abstracts"
+# - name:           "lab teachings"
+#   href:           "/resources"
+
+# Sass
+sass:
+  style:            :compressed
+
+# Scopes
+defaults:
+  -
+    scope:
+      path:         ""
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      path:         ""
+      type:         "posts"
+    values:
+      layout:       "post"
+  -
+    scope:
+      path:         ""
+      type:         "people"
+    values:
+      layout:       "profile"
+
+
+collections:
+  people:
+    output: true
+    permalink: /people/:title/index.html
