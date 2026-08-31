@@ -1,6 +1,6 @@
-# ComputationalSociology lab page
+# CATS Lab page
 
-This is repository for [ComputationalSociology lab page](https://computationalsociologylab.github.io/). We fork this repository from [Kording lab page](https://kordinglab.com/) and modefy the source code. 
+This is the repository for the [CATS Lab (Computational Analytics of Technology and Society) page](https://catslab-kaist.github.io/), formerly the Computational Sociology Lab. This repository was forked from the [Kording lab page](https://kordinglab.com/) and its source code has been modified since.
 
 ## Run the page locally using Jekyll
 

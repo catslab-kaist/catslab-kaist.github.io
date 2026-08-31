@@ -11,58 +11,58 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 (Working papers)
 
 _Uneven automation: AI’s impact on software engineering varies by task difficulty and data availability_<br>
-[#Myokyung Han](https://computationalsociologylab.github.io/people/Myokyung_Han/index.html), Jeewoon Hong, Taegyoon Kim, Jinhyuk Yun, [#Lanu Kim](https://computationalsociologylab.github.io/people/lanu_kim/index.html)<br>
+[#Myokyung Han](https://catslab-kaist.github.io/people/Myokyung_Han/index.html), Jeewoon Hong, Taegyoon Kim, Jinhyuk Yun, [#Lanu Kim](https://catslab-kaist.github.io/people/lanu_kim/index.html)<br>
 
 _Proactive detection of voice phishing networks using call log analysis and machine learning_<br>
-[#Kyungjong Kim](https://computationalsociologylab.github.io/people/Kyungjong_Kim/index.html), [#Lanu Kim](https://computationalsociologylab.github.io/people/lanu_kim/index.html)<br>
+[#Kyungjong Kim](https://catslab-kaist.github.io/people/Kyungjong_Kim/index.html), [#Lanu Kim](https://catslab-kaist.github.io/people/lanu_kim/index.html)<br>
 
 _Greedy leadership roles: why modern organizations struggle to retain women leaders_<br>
-Minyoung Choi, [#Myokyung Han](https://computationalsociologylab.github.io/people/Myokyung_Han/index.html), [#Suhyoung Choi](https://computationalsociologylab.github.io/people/Suhyoung_Choi/index.html), Eunhee Bae, Dong Ju Kim, Bong Gwan Jun, [#Lanu Kim](https://computationalsociologylab.github.io/people/lanu_kim/index.html)<br>
+Minyoung Choi, [#Myokyung Han](https://catslab-kaist.github.io/people/Myokyung_Han/index.html), [#Suhyoung Choi](https://catslab-kaist.github.io/people/Suhyoung_Choi/index.html), Eunhee Bae, Dong Ju Kim, Bong Gwan Jun, [#Lanu Kim](https://catslab-kaist.github.io/people/lanu_kim/index.html)<br>
 
 _Regional differences in the strength and cohesion of social networks and childcare stress management_<br>
-Daeun Kwan, Seulki Choi, [#Lanu Kim](https://computationalsociologylab.github.io/people/lanu_kim/index.html)<br>
+Daeun Kwan, Seulki Choi, [#Lanu Kim](https://catslab-kaist.github.io/people/lanu_kim/index.html)<br>
 
 _What can conceptual networks tell us about scientific progress?_<br>
-[#Lanu Kim](https://computationalsociologylab.github.io/people/lanu_kim/index.html), Vivek Kulkarni, Daniel A. McFarland<br>
+[#Lanu Kim](https://catslab-kaist.github.io/people/lanu_kim/index.html), Vivek Kulkarni, Daniel A. McFarland<br>
 
 _Peripheralizing social science academia: a relational landscape of the global and local social sciences_<br>
-June Jeon\*, Byungjun Kim\*, [#Suhyoung Choi](https://computationalsociologylab.github.io/people/Suhyoung_Choi/index.html), Maida Aizaz, [#Lanu Kim](https://computationalsociologylab.github.io/people/lanu_kim/index.html) (\* co-first author) <br>
+June Jeon\*, Byungjun Kim\*, [#Suhyoung Choi](https://catslab-kaist.github.io/people/Suhyoung_Choi/index.html), Maida Aizaz, [#Lanu Kim](https://catslab-kaist.github.io/people/lanu_kim/index.html) (\* co-first author) <br>
 
 <hr>
 
 (Published works)   
 _Has higher education become more interdisciplinary? a longitudinal analysis of syllabi using natural language processing_<br>
-[#Youjin Hong](https://computationalsociologylab.github.io/people/Youjin_Hong/index.html), Byungjun Kim, June Jeon, [#Lanu Kim](https://computationalsociologylab.github.io/people/lanu_kim/index.html)<br> Humanities and Social Sciences Communications, 2025 [Article](https://www.nature.com/articles/s41599-025-06126-7)<br>
+[#Youjin Hong](https://catslab-kaist.github.io/people/Youjin_Hong/index.html), Byungjun Kim, June Jeon, [#Lanu Kim](https://catslab-kaist.github.io/people/lanu_kim/index.html)<br> Humanities and Social Sciences Communications, 2025 [Article](https://www.nature.com/articles/s41599-025-06126-7)<br>
 
-_Whose Palestine is it? a topic modelling approach to national framing in academic research_<br> [#Maida Aizaz](https://computationalsociologylab.github.io/people/Maida_Aizaz/index.html), Taegyoon Kim, [#Lanu Kim](https://computationalsociologylab.github.io/people/lanu_kim/index.html)<br> Proceedings of the 9th Widening NLP Workshop, 2025 [Article](https://aclanthology.org/2025.winlp-main.7/)<br>
+_Whose Palestine is it? a topic modelling approach to national framing in academic research_<br> [#Maida Aizaz](https://catslab-kaist.github.io/people/Maida_Aizaz/index.html), Taegyoon Kim, [#Lanu Kim](https://catslab-kaist.github.io/people/lanu_kim/index.html)<br> Proceedings of the 9th Widening NLP Workshop, 2025 [Article](https://aclanthology.org/2025.winlp-main.7/)<br>
 
 _The ethics of generative AI in social science research: a qualitative approach for institutionally grounded AI research ethics_<br>
-June Jeon, Jaehyuk Park, [#Lanu Kim](https://computationalsociologylab.github.io/people/lanu_kim/index.html)<br> Technology in Society, 2025 [Article](https://doi.org/10.1016/j.techsoc.2025.102836)<br>
+June Jeon, Jaehyuk Park, [#Lanu Kim](https://catslab-kaist.github.io/people/lanu_kim/index.html)<br> Technology in Society, 2025 [Article](https://doi.org/10.1016/j.techsoc.2025.102836)<br>
 
 _A persistent gender pay gap among faculty in a public university system_<br>
-[#Lanu Kim](https://computationalsociologylab.github.io/people/lanu_kim/index.html), Bas Hofstra, Sebastian MN Galvez<br> Scientific Reports, 2024 [Article](https://www.nature.com/articles/s41598-024-72871-5)<br>
+[#Lanu Kim](https://catslab-kaist.github.io/people/lanu_kim/index.html), Bas Hofstra, Sebastian MN Galvez<br> Scientific Reports, 2024 [Article](https://www.nature.com/articles/s41598-024-72871-5)<br>
 
-_Networking a career: individual adaptation in the network ecology of faculty_<br>[#Lanu Kim](https://computationalsociologylab.github.io/people/lanu_kim/index.html), Sanne Smith, Linus Dahlander, and Daniel A. McFarland<br> Social Networks 77: 166-179, 2024 [Article](https://doi.org/10.1016/j.socnet.2022.04.002)<br>
+_Networking a career: individual adaptation in the network ecology of faculty_<br>[#Lanu Kim](https://catslab-kaist.github.io/people/lanu_kim/index.html), Sanne Smith, Linus Dahlander, and Daniel A. McFarland<br> Social Networks 77: 166-179, 2024 [Article](https://doi.org/10.1016/j.socnet.2022.04.002)<br>
 
 _Opening the blackbox of computational social science research process: a case of comparative study of social science academia_<br>
-June Jeon\*, Byungjun Kim\*, Jaehong Kim, [#Lanu Kim](https://computationalsociologylab.github.io/people/lanu_kim/index.html) (\* co-first author)<br>
+June Jeon\*, Byungjun Kim\*, Jaehong Kim, [#Lanu Kim](https://catslab-kaist.github.io/people/lanu_kim/index.html) (\* co-first author)<br>
 Korea Journal of Sociology, 2023 [Article](https://kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002967055)<br>
 
-_Gendered knowledge in fields and academic careers_<br>[#Lanu Kim](https://computationalsociologylab.github.io/people/lanu_kim/index.html), Daniel Scott Smith, Bas Hofstra, and Daniel A. McFarland<br> Research Policy 51(1), 2022 [Article](https://doi.org/10.1016/j.respol.2021.104411)<br>
+_Gendered knowledge in fields and academic careers_<br>[#Lanu Kim](https://catslab-kaist.github.io/people/lanu_kim/index.html), Daniel Scott Smith, Bas Hofstra, and Daniel A. McFarland<br> Research Policy 51(1), 2022 [Article](https://doi.org/10.1016/j.respol.2021.104411)<br>
 
-_Diversifying history: a large-scale analysis of changes in researcher demographics and scholarly agendas_<br>Risi, Stephan, Mathias W. Nielsen, Emma Kerr, Emer Brady, [#Lanu Kim](https://computationalsociologylab.github.io/people/lanu_kim/index.html), Daniel A. McFarland, Dan Jurafsky, James Zou, and Londa Schiebinger<br> PloS one 17(1): e0262027, 2022 [Article](https://doi.org/10.1371/journal.pone.0262027)<br>
+_Diversifying history: a large-scale analysis of changes in researcher demographics and scholarly agendas_<br>Risi, Stephan, Mathias W. Nielsen, Emma Kerr, Emer Brady, [#Lanu Kim](https://catslab-kaist.github.io/people/lanu_kim/index.html), Daniel A. McFarland, Dan Jurafsky, James Zou, and Londa Schiebinger<br> PloS one 17(1): e0262027, 2022 [Article](https://doi.org/10.1371/journal.pone.0262027)<br>
 
-_Exploring telerobotic cardiac catheter ablation in a rural community hospital: A pilot study_<br>Serafini, Brian, [#Lanu Kim](https://computationalsociologylab.github.io/people/lanu_kim/index.html), Basil M. Saour, Ryan James, Blake Hannaford, Ryan Hansen, Tadayoshi Kohno, Wayne Monsky, and Stephen P. Seslar<br> Cardiovascular Digital Health Journal 3(6): 313-319, 2022 [Article](https://doi.org/10.1016/j.cvdhj.2022.10.003)<br>
+_Exploring telerobotic cardiac catheter ablation in a rural community hospital: A pilot study_<br>Serafini, Brian, [#Lanu Kim](https://catslab-kaist.github.io/people/lanu_kim/index.html), Basil M. Saour, Ryan James, Blake Hannaford, Ryan Hansen, Tadayoshi Kohno, Wayne Monsky, and Stephen P. Seslar<br> Cardiovascular Digital Health Journal 3(6): 313-319, 2022 [Article](https://doi.org/10.1016/j.cvdhj.2022.10.003)<br>
 
-_Opportunities and barriers to rural telerobotic surgical health care in 2021: report and research age_<br> Hansen, Ryan N., Basil Matthew Saour, Brian Serafini, Blake Hannaford, [#Lanu Kim](https://computationalsociologylab.github.io/people/lanu_kim/index.html), Takayoshi Kohno, Ryan James, Wayne Monsky, and Stephen P. Seslar<br> Telemedicine and e-Health Published online, 2021 [Article](https://doi.org/10.1089/tmj.2021.0378)<br>
+_Opportunities and barriers to rural telerobotic surgical health care in 2021: report and research age_<br> Hansen, Ryan N., Basil Matthew Saour, Brian Serafini, Blake Hannaford, [#Lanu Kim](https://catslab-kaist.github.io/people/lanu_kim/index.html), Takayoshi Kohno, Ryan James, Wayne Monsky, and Stephen P. Seslar<br> Telemedicine and e-Health Published online, 2021 [Article](https://doi.org/10.1089/tmj.2021.0378)<br>
 
-_Labour market uncertainty and the economic foundations of marriage in South Korea_<br>Yoon, Soo-Yeon, Sojung Lim, and [#Lanu Kim](https://computationalsociologylab.github.io/people/lanu_kim/index.html)<br> Asian Population Studies Published online, 2021 [Article](https://www.tandfonline.com/doi/abs/10.1080/17441730.2021.1932065)<br>
+_Labour market uncertainty and the economic foundations of marriage in South Korea_<br>Yoon, Soo-Yeon, Sojung Lim, and [#Lanu Kim](https://catslab-kaist.github.io/people/lanu_kim/index.html)<br> Asian Population Studies Published online, 2021 [Article](https://www.tandfonline.com/doi/abs/10.1080/17441730.2021.1932065)<br>
 
-_The influence of changing marginals on measures of inequality in scholarly citations: evidence of bias and a resampling correction_<br>[#Lanu Kim](https://computationalsociologylab.github.io/people/lanu_kim/index.html), Christopher Adolph, Jevin West, and Katherine Stovel<br> Sociological Science 7:314-341, 2020 [Article](https://sociologicalscience.com/articles-v7-13-314/)<br>
+_The influence of changing marginals on measures of inequality in scholarly citations: evidence of bias and a resampling correction_<br>[#Lanu Kim](https://catslab-kaist.github.io/people/lanu_kim/index.html), Christopher Adolph, Jevin West, and Katherine Stovel<br> Sociological Science 7:314-341, 2020 [Article](https://sociologicalscience.com/articles-v7-13-314/)<br>
 
-_Scientific journals still matter in the era of academic search engines and preprint archives_<br>[#Lanu Kim](https://computationalsociologylab.github.io/people/lanu_kim/index.html), Jason Portenoy, Jevin West, and Katherine Stovel<br> Journal of the Association for Information Science and Technology 71(10):1218-1226, 2020 [Article](https://doi.org/10.1002/asi.24326)<br>
+_Scientific journals still matter in the era of academic search engines and preprint archives_<br>[#Lanu Kim](https://catslab-kaist.github.io/people/lanu_kim/index.html), Jason Portenoy, Jevin West, and Katherine Stovel<br> Journal of the Association for Information Science and Technology 71(10):1218-1226, 2020 [Article](https://doi.org/10.1002/asi.24326)<br>
 
-_Is Korean academia unique?: comparison of knowledge discourses between Korean and international sociology_<br>[#Lanu Kim](https://computationalsociologylab.github.io/people/lanu_kim/index.html), Sue-yeon Song. 2020. <br> Korean Journal of Sociology 54(4):1-40. (in Korean), 2020 [Article](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE10502123)<br>
+_Is Korean academia unique?: comparison of knowledge discourses between Korean and international sociology_<br>[#Lanu Kim](https://catslab-kaist.github.io/people/lanu_kim/index.html), Sue-yeon Song. 2020. <br> Korean Journal of Sociology 54(4):1-40. (in Korean), 2020 [Article](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE10502123)<br>
 
 ### Copyright Notice
 

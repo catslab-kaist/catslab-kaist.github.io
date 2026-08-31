@@ -5,7 +5,7 @@ layout: page
 ---
 
 ### About this category
-This page curates posts under **Matjip (맛집)** — because let's be honest, everyone in our Computational Sociology Lab loves food. We're always on the hunt for good places to eat around KAIST and Daejeon, and every semester we make it our mission to discover new restaurants for our lab lunches.
+This page curates posts under **Matjip (맛집)** — because let's be honest, everyone in our CATS Lab loves food. We're always on the hunt for good places to eat around KAIST and Daejeon, and every semester we make it our mission to discover new restaurants for our lab lunches.
 
 
 ### Map of featured places
