@@ -20,4 +20,4 @@ thesis: "Hong, Y. (2024). Contrasting Criminal Judgments: A Comparative Analysis
   Participated in the roundtable and presented research titled "Contrasting Criminal Judgments: A Comparative Analysis of Publicly Enraging and Indifferent Crimes" at the AKSA Roundtable 2024.  
 
 ## Contact
-<i class="fa fa-envelope-o"></i>  `yjhongkr@kaist.ac.kr`<br>
+<i class="fa fa-envelope-o"></i>  `yjhongkr [at] kaist.ac.kr`<br>

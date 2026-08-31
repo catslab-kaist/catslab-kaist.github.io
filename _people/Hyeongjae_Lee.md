@@ -21,4 +21,4 @@ Hyeongjae seeks to explore how technological change and skill development, groun
 * Lee H, Hong I (2025) *Quantifying the influence of vocational education and training with text embedding and similarity-based networks.* PLoS One 20(8): e0329405. https://doi.org/10.1371/journal.pone.0329405
 
 ## Contact
-<i class="fa fa-envelope-o"></i>  `hyeongjaelee@kaist.ac.kr`<br>
+<i class="fa fa-envelope-o"></i>  `hyeongjaelee [at] kaist.ac.kr`<br>

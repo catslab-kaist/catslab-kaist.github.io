@@ -9,7 +9,7 @@ We are a group of data scientists interested in broadly-defined social science t
 ### Research
 Society, like human beings, is full of complexity and irregularity, which makes social scientists difficult to investigate the world. Owing to the advancement of big data, we have one more clue to observe fine-grained human behavior through this lens. Our lab maximizes this opportunity by collecting and analyzing big data that were not for academic purposes before. By doing so, we not only expand the understanding of society, but also show the direction toward fair and just society. 
 We take an interdisciplinary approach covering a wide range of topics. Simultaneously, we connect theoretically engaging academic research with practically useful industry and government research. We’ve pursued projects that involve diversity in organization, technology and society, law and society, and global knowledge structure.
-We illustrate the detailed list of current projects and working papers in this lab page. Please check out the latest works of lab members in [projects](https://catslab-kaist.github.io/project/) and [publications](https://catslab-kaist.github.io/publication/) tab.
+We illustrate the detailed list of current working papers in this lab page. Please check out the latest works of lab members in the [publications](https://catslab-kaist.github.io/publication/) tab.
 
 The best way to get a sense of what's currently going on in the lab is to check out the work of individual lab members:
 

@@ -24,4 +24,4 @@ Hello, I am Jiyun. I am studying Data Science for my Master's degree. I used to 
 * Jiyun Beak, Ludovic Moncla. *Mapping Global Protest Tendencies: Geolocating Trends and Topics Through Wikipedia Analysis.* Second International Workshop on Geographic Information Extraction from Texts (GeoExT), Mar 2024, Glasgow, United Kingdom.
 
 ## Contact
-<i class="fa fa-envelope-o"></i>  `bamjy99@kaist.ac.kr`<br>
+<i class="fa fa-envelope-o"></i>  `bamjy99 [at] kaist.ac.kr`<br>

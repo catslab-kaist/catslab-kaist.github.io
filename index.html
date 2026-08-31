@@ -15,7 +15,7 @@ layout: default
         <span style="display: block; margin-bottom: 3em"></span>
 
       <a href="https://github.com/catslab-kaist"><i class="fa fa-github"></i> CATSLab</a>&nbsp;&nbsp;&nbsp;
-      <a href="mailto:lanukim@kaist.ac.kr"><i class="fa fa-envelope-o"></i> lanukim@kaist.ac.kr</a>
+      <i class="fa fa-envelope-o"></i> lanukim [at] kaist.ac.kr
       </p>
 
       <div class="w3-container" style="   background: #f0f8ff; padding: 25px; border-radius:10px; border: 1px solid #5d8aa8">
@@ -29,11 +29,12 @@ layout: default
                 {% for new in recent_news limit:5 %}
                   <li>
                     <span>
-                      {{ new.details }}
+                      {{ new.headline }}
                     </span>
                   </li>
                 {% endfor %}
               </ul>
+              <a href="/news/">See all news &rarr;</a>
           </div>
         </div >
       </div>

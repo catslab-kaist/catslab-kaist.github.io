@@ -9,7 +9,7 @@ avatar: Kim_Lanu.jpg
 - _Associate professor, KAIST_
 - _Sociology, Data Science. Collaborator. Transdisciplinary optimist._
 
-<i class="fa fa-envelope-o"></i> `lanukimatkaist.ac.kr`
+<i class="fa fa-envelope-o"></i> `lanukim [at] kaist.ac.kr`
 
 **Office**<br>
 N4, Rm.1431 ,291, Daehak-ro, Yuseong-gu <br>

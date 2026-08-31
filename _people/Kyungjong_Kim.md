@@ -19,4 +19,4 @@ I am also a police officer who wants to contribute to a safer society by analyzi
 * Voice Phishing
 
 ## Contact
-<i class="fa fa-envelope-o"></i>  `leeyeongul@kaist.ac.kr`<br>
+<i class="fa fa-envelope-o"></i>  `leeyeongul [at] kaist.ac.kr`<br>

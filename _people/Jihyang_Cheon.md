@@ -19,4 +19,4 @@ She aims to grow as an interdisciplinary researcher, guided by intellectual curi
 * Sociology of Knowledge
 
 ## Contact
-<i class="fa fa-envelope-o"></i>  `jhcheon@kaist.ac.kr`<br>
+<i class="fa fa-envelope-o"></i>  `jhcheon [at] kaist.ac.kr`<br>

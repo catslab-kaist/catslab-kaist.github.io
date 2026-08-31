@@ -19,4 +19,4 @@ Myokyung Han is a Ph.D. student in Digital Humanities and Computational Social S
 * Open Science
 
 ## Contact
-<i class="fa fa-envelope-o"></i>  `mk_han@kaist.ac.kr`<br>
+<i class="fa fa-envelope-o"></i>  `mk_han [at] kaist.ac.kr`<br>

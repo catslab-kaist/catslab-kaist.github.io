@@ -27,4 +27,4 @@ thesis:
 <img width="200" src="{{site.baseurl}}/images/people/Yongtaek_AI.png" onerror="this.src='{{site.baseurl}}/images/people/404.jpg';" data-action="zoom">
 
 ## Contact
-<i class="fa fa-envelope-o"></i>  `yeongtaek1337@kaist.ac.kr`<br>
+<i class="fa fa-envelope-o"></i>  `yeongtaek1337 [at] kaist.ac.kr`<br>

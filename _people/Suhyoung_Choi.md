@@ -27,4 +27,4 @@ Studying Data Science and the application of computational methods solving socia
   Presented research titled "Exploring When and How Much Annotator Diversity is Necessary for Effective Machine Learning Models" at IC2S2 2024. 
 
 ## Contact
-<i class="fa fa-envelope-o"></i>  `s.y.choi@kaist.ac.kr`<br>
+<i class="fa fa-envelope-o"></i>  `s.y.choi [at] kaist.ac.kr`<br>

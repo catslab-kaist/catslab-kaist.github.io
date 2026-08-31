@@ -21,4 +21,4 @@ Hello! I am a masters student at the Graduate School of Data Science (GSDS), aft
 
 
 ## Contact
-<i class="fa fa-envelope-o"></i>  `maidaa25@kaist.ac.kr`<br>
+<i class="fa fa-envelope-o"></i>  `maidaa25 [at] kaist.ac.kr`<br>
