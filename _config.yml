@@ -1,7 +1,3 @@
-# # # # # # # #
-#   K i k o   #
-# # # # # # # #
-
 # Basic
 name:               "Computational Sociology Lab"
 title:              "Computational Sociology Lab at the Korea Advanced Institute of Science and Technology"
@@ -9,7 +5,7 @@ description:        "Computational Sociology Lab is a research group at the the 
 
 
 # URL
-url:                https://computationalsociologylab.github.io/
+url:                https://catslab.kaist.ac.kr/
 baseurl:            
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title.html
@@ -28,12 +24,12 @@ nav:
     href:           "/about"
   - name:           "publications"
     href:           "/publication"
-  - name:           "projects"
-    href:           "/project"
+  - name:           "presentations"
+    href:           "/presentation"
   - name:           "people"
     href:           "/people"
-# - name:           "blog"
-#    href:           "/blog"
+  - name:           "matjip"
+    href:           "/matjip"
 # - name:           "abstracts"
 #   href:           "/abstracts"
 # - name:           "lab teachings"

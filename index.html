@@ -24,17 +24,14 @@ layout: default
           <u>Happenings of the last few months</u>
           <span style="display: block; margin-bottom: 1em"></span>
           <div class="news">
-              {% capture now %}{{'now' | date: '%s' | minus: 7776000 %}}{% endcapture %}
+              {% assign recent_news = site.data.news | sort: 'date' | reverse %}
               <ul style="list-style-position:outside;padding:20px" >
-                {% for new in site.data.news %}
-                  {% capture date %}{{new.date | date: '%s' | plus: 0 %}}{% endcapture %}
-                  {% if date > now %}
-                    <li>
-                      <span>
-                        {{ new.details }}
-                      </span>
-                    </li>
-                  {% endif %}
+                {% for new in recent_news limit:5 %}
+                  <li>
+                    <span>
+                      {{ new.details }}
+                    </span>
+                  </li>
                 {% endfor %}
               </ul>
           </div>

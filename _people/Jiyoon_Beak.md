@@ -1,8 +1,11 @@
 ---
 name: Jiyun Beak
-position: gradstudent
+position: alumni
 avatar: Beak_Jiyun.jpg
 joined: 2023
+ended: 2026
+destination:
+thesis:
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" onerror="this.src='{{site.baseurl}}/images/people/404.jpg';" data-action="zoom">

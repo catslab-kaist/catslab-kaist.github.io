@@ -4,7 +4,7 @@ permalink: /people/
 ---
 
 {% assign people_sorted = site.people | sort: 'joined' %}
-{% assign role_array = "pi|postdoc|gradstudent|researchstaff|visiting|others|alumni" | split: "|" %}
+{% assign role_array = "pi|postdoc|gradstudent|researchstaff|visiting|others|intern|alumni" | split: "|" %}
 
 {% for role in role_array %}
 
@@ -28,12 +28,14 @@ permalink: /people/
 <h3>Visiting Scholars</h3>
  {% elsif role == 'others' %}
 <h3>Honorary Members</h3>
+ {% elsif role == 'intern' %}
+<h3>Interns</h3>
  {% elsif role == 'alumni' %}
 <h3>Alumni</h3>
 {% endif %}
 </div>
 
-{% if role != 'alumni' %}
+{% if role != 'alumni' and role != 'intern' %}
 <div class="content list people">
   {% for profile in people_sorted %}
     {% if profile.position contains role %}
@@ -51,6 +53,28 @@ permalink: /people/
   {% endfor %}
 </div>
 <hr>
+{% elsif role == 'intern' %}
+<br>
+<table>
+  <thead>
+    <tr>
+      <th>Who are they</th>
+      <th>When were they here</th>
+      <th>Where they went</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for profile in people_sorted %}
+      {% if profile.position contains 'intern' %}
+        <tr>
+          <td><a href="{{ site.baseurl }}{{ profile.url }}">{{ profile.name }}</a></td>
+          <td>{{ profile.joined }} ~ {{ profile.ended }}</td>
+          <td>{{ profile.destination }}</td>
+        </tr>
+      {% endif %}
+    {% endfor %}
+  </tbody>
+</table>
 
 {% else %}
 

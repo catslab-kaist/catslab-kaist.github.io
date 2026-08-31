@@ -1,6 +1,6 @@
 """
-Quickly hacked-together script for pulling Konrad's citations from Google
-Scholar, and formatting them according to the Markdown shown on http://kordinglab.com/publication/
+Quickly hacked-together script for pulling a lab member's citations from Google
+Scholar, and formatting them as Markdown for publications.md.
 
 requests-html used to avoid captcha/violating Google ToS.
 """

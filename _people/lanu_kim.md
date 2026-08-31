@@ -1,15 +1,15 @@
 ---
 name: Lanu Kim
 position: pi
-avatar: lanu_profile.jpg
+avatar: Kim_Lanu.jpg
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" onerror="this.src='{{site.baseurl}}/images/people/404.jpg';" data-action="zoom">
 
-- _Professor, KAIST_
+- _Associate professor, KAIST_
 - _Sociology, Data Science. Collaborator. Transdisciplinary optimist._
 
-<i class="fa fa-envelope-o"></i> `lanukim@kaist.ac.kr`
+<i class="fa fa-envelope-o"></i> `lanukimatkaist.ac.kr`
 
 **Office**<br>
 N4, Rm.1431 ,291, Daehak-ro, Yuseong-gu <br>
