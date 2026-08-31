@@ -9,3 +9,18 @@
 
 - date: 2024-11-05
   details: "Suhyoung Choi presented research titled 'Exploring When and How Much Annotator Diversity is Necessary for Effective Machine Learning Models' at IC2S2 2024."
+
+- date: 2026-08-01
+  details: "Hyeongjae Lee, Jihyang Cheon, and Prof. Lanu Kim posted a new preprint: <a href='https://arxiv.org/abs/2608.20425'>Who Delegates to AI? Evidence from 53,000 Agent Configurations</a>. Using a new Agentic Adoption Index built from 53,000 AI agent configurations, the paper finds that real-world AI delegation concentrates in mid-wage, bachelor's-level occupations rather than the jobs earlier exposure models flagged as most at risk, and that adoption still lags behind what is technically feasible."
+
+- date: 2026-06-01
+  details: "Kyungjong Kim and Prof. Lanu Kim published a paper in Scientific Reports: <a href='https://www.nature.com/articles/s41598-026-54515-y'>Proactive detection of voice phishing networks using call log analysis and machine learning</a>. Using large-scale call log data from South Korea, the paper shows that voice phishing phone numbers have distinctive behavioral signatures, including concentrated weekday activity, shorter calls, more outgoing calls, and heavier use of MVNO lines, letting machine learning models flag them with over 95 percent accuracy."
+
+- date: 2026-02-01
+  details: "Minyoung Choi, Myokyung Han, Suhyoung Choi, Eunhee Bae, Dongju Kim, Bong Gwan Jun, and Prof. Lanu Kim published a paper in Asian Journal of Business Ethics: <a href='https://doi.org/10.1007/s13520-025-00250-y'>Greedy Leadership Roles: Why Modern Organizations Struggle to Retain Women Leaders</a>. Based on focus groups with women leaders at a South Korean engineering firm, the paper argues that leadership roles themselves, with their demand for near-constant availability, remain a structural barrier to gender diversity even as organizations reduce more overt forms of discrimination."
+
+- date: 2025-11-01
+  details: "Youjin Hong, Byungjun Kim, June Jeon, and Prof. Lanu Kim published a paper in Humanities and Social Sciences Communications: <a href='https://doi.org/10.1057/s41599-025-06126-7'>Has higher education become more interdisciplinary? A longitudinal analysis of syllabi using natural language processing</a>. Analyzing nearly 480,000 course syllabi from 2004 to 2019, the paper finds that disciplinary boundaries in university teaching have stayed remarkably stable despite the growing institutional rhetoric around interdisciplinary education."
+
+- date: 2025-06-01
+  details: "June Jeon, Prof. Lanu Kim, and Jaehyuk Park published a paper in Technology in Society: <a href='https://doi.org/10.1016/j.techsoc.2025.102836'>The Ethics of Generative AI in Social Science Research: A Qualitative Approach for Institutionally Grounded AI Research Ethics</a>. Based on 17 interviews, the paper identifies three narratives researchers use to make sense of generative AI and research ethics (equalizer, meritocracy, and community), and argues that AI research ethics cannot be reduced to universal checklists: ethical dilemmas emerge not from AI's technical functions alone but from how those functions are situated within academia's institutional arrangements, calling for community engagement, education, and institutional governance alongside any technical rules."
