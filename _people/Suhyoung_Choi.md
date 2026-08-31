@@ -28,3 +28,7 @@ Studying Data Science and the application of computational methods solving socia
 
 ## Contact
 <i class="fa fa-envelope-o"></i>  `s.y.choi [at] kaist.ac.kr`<br>
+
+## Publications
+* [working paper]. _Peripheralization through knowledge: rethinking social science via global value chains_
+* 2026. _Greedy Leadership Roles: Why Modern Organizations Struggle to Retain Women Leaders._ Asian Journal of Business Ethics 15:189-208. [Article](https://doi.org/10.1007/s13520-025-00250-y)

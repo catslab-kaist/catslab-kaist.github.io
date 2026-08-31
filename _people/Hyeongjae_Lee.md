@@ -17,8 +17,9 @@ Hyeongjae seeks to explore how technological change and skill development, groun
 * Complexity Network
 * Machine Learning
 
-## Publication
-* Lee H, Hong I (2025) *Quantifying the influence of vocational education and training with text embedding and similarity-based networks.* PLoS One 20(8): e0329405. https://doi.org/10.1371/journal.pone.0329405
-
 ## Contact
 <i class="fa fa-envelope-o"></i>  `hyeongjaelee [at] kaist.ac.kr`<br>
+
+## Publications
+* 2026. _Who Delegates to AI? Evidence from 53,000 Agent Configurations._ arXiv preprint. [Article](https://arxiv.org/abs/2608.20425)
+* 2025. Lee H, Hong I. *Quantifying the influence of vocational education and training with text embedding and similarity-based networks.* PLoS One 20(8): e0329405. [Article](https://doi.org/10.1371/journal.pone.0329405)

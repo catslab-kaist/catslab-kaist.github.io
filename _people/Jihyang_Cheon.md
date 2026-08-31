@@ -20,3 +20,6 @@ She aims to grow as an interdisciplinary researcher, guided by intellectual curi
 
 ## Contact
 <i class="fa fa-envelope-o"></i>  `jhcheon [at] kaist.ac.kr`<br>
+
+## Publications
+* 2026. _Who Delegates to AI? Evidence from 53,000 Agent Configurations._ arXiv preprint. [Article](https://arxiv.org/abs/2608.20425)

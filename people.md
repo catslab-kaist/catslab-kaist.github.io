@@ -54,7 +54,6 @@ permalink: /people/
 </div>
 <hr>
 {% elsif role == 'intern' %}
-<br>
 <table>
   <thead>
     <tr>
@@ -67,18 +66,17 @@ permalink: /people/
     {% for profile in people_sorted %}
       {% if profile.position contains 'intern' %}
         <tr>
-          <td><a href="{{ site.baseurl }}{{ profile.url }}">{{ profile.name }}</a></td>
-          <td>{{ profile.joined }} ~ {{ profile.ended }}</td>
+          <td>{{ profile.name }}</td>
+          <td>{% if profile.ended %}{{ profile.joined }} ~ {{ profile.ended }}{% else %}{{ profile.joined }}{% endif %}</td>
           <td>{{ profile.destination }}</td>
         </tr>
       {% endif %}
     {% endfor %}
   </tbody>
 </table>
+<hr>
 
 {% else %}
-
-<br>
 
 <table>
   <thead>

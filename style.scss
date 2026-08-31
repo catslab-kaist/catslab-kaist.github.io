@@ -470,6 +470,11 @@ tbody tr:nth-child(odd) th {
 // customization
 .pos_header {
   margin-left: 2rem;
+  margin-top: 2.5rem;
+}
+
+.pos_header:first-of-type {
+  margin-top: 0;
 }
 
 .people {
