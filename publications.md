@@ -10,31 +10,43 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 <hr>
 (Working papers)
 
-_Uneven automation: AI’s impact on software engineering varies by task difficulty and data availability_<br>
+_From Affiliation to Attribution: Who Mentions Whom in Science?_<br>
+[#Maida Aizaz](https://catslab-kaist.github.io/people/Aizaz_Maida/index.html), Taekho You, June Jeon, [#Lanu Kim](https://catslab-kaist.github.io/people/lanu_kim/index.html)<br>
+
+_Uneven automation: AI's impact on software engineering varies by task difficulty and data availability_<br>
 [#Myokyung Han](https://catslab-kaist.github.io/people/Myokyung_Han/index.html), Jeewoon Hong, Taegyoon Kim, Jinhyuk Yun, [#Lanu Kim](https://catslab-kaist.github.io/people/lanu_kim/index.html)<br>
 
-_Proactive detection of voice phishing networks using call log analysis and machine learning_<br>
-[#Kyungjong Kim](https://catslab-kaist.github.io/people/Kyungjong_Kim/index.html), [#Lanu Kim](https://catslab-kaist.github.io/people/lanu_kim/index.html)<br>
-
-_Greedy leadership roles: why modern organizations struggle to retain women leaders_<br>
-Minyoung Choi, [#Myokyung Han](https://catslab-kaist.github.io/people/Myokyung_Han/index.html), [#Suhyoung Choi](https://catslab-kaist.github.io/people/Suhyoung_Choi/index.html), Eunhee Bae, Dong Ju Kim, Bong Gwan Jun, [#Lanu Kim](https://catslab-kaist.github.io/people/lanu_kim/index.html)<br>
-
-_Regional differences in the strength and cohesion of social networks and childcare stress management_<br>
+_Exploring community-level childcare social networks: a comparative mixed methods study of South Korea_<br>
 Daeun Kwan, Seulki Choi, [#Lanu Kim](https://catslab-kaist.github.io/people/lanu_kim/index.html)<br>
 
-_What can conceptual networks tell us about scientific progress?_<br>
+_Modeling tie dynamics in ideational spaces of scientific fields - a network theoretic approach_<br>
 [#Lanu Kim](https://catslab-kaist.github.io/people/lanu_kim/index.html), Vivek Kulkarni, Daniel A. McFarland<br>
 
-_Peripheralizing social science academia: a relational landscape of the global and local social sciences_<br>
+_Peripheralization through knowledge: rethinking social science via global value chains_<br>
 June Jeon\*, Byungjun Kim\*, [#Suhyoung Choi](https://catslab-kaist.github.io/people/Suhyoung_Choi/index.html), Maida Aizaz, [#Lanu Kim](https://catslab-kaist.github.io/people/lanu_kim/index.html) (\* co-first author) <br>
+
+_"Not for us": artificial intelligence and latent inequality in the labor market_<br>
+Dujin Park, [#Lanu Kim](https://catslab-kaist.github.io/people/lanu_kim/index.html), June Jeon<br>
+
+_Public attention and judicial consistency: how the public drives lower court judges' adherence to guidelines_<br>
+[#Youjin Hong](https://catslab-kaist.github.io/people/Youjin_Hong/index.html) and [#Lanu Kim](https://catslab-kaist.github.io/people/lanu_kim/index.html)<br>
+
+_Gender inequality in academia: a longitudinal study of South Korea and Taiwan (2008-2023)_<br>
+Lake Lui, [#Lanu Kim](https://catslab-kaist.github.io/people/lanu_kim/index.html)<br>
 
 <hr>
 
 (Published works)   
+_Proactive detection of voice phishing networks using call log analysis and machine learning_<br>
+[#Kyungjong Kim](https://catslab-kaist.github.io/people/Kyungjong_Kim/index.html), [#Lanu Kim](https://catslab-kaist.github.io/people/lanu_kim/index.html)<br> Scientific Reports 16(26036), 2026 [Article](https://www.nature.com/articles/s41598-026-54515-y)<br>
+
+_Greedy leadership roles: why modern organizations struggle to retain women leaders_<br>
+Minyoung Choi, [#Myokyung Han](https://catslab-kaist.github.io/people/Myokyung_Han/index.html), [#Suhyoung Choi](https://catslab-kaist.github.io/people/Suhyoung_Choi/index.html), Eunhee Bae, Dong Ju Kim, Bong Gwan Jun, [#Lanu Kim](https://catslab-kaist.github.io/people/lanu_kim/index.html)<br> Asian Journal of Business Ethics 15:189-208, 2026 [Article](https://doi.org/10.1007/s13520-025-00250-y)<br>
+
 _Has higher education become more interdisciplinary? a longitudinal analysis of syllabi using natural language processing_<br>
 [#Youjin Hong](https://catslab-kaist.github.io/people/Youjin_Hong/index.html), Byungjun Kim, June Jeon, [#Lanu Kim](https://catslab-kaist.github.io/people/lanu_kim/index.html)<br> Humanities and Social Sciences Communications, 2025 [Article](https://www.nature.com/articles/s41599-025-06126-7)<br>
 
-_Whose Palestine is it? a topic modelling approach to national framing in academic research_<br> [#Maida Aizaz](https://catslab-kaist.github.io/people/Maida_Aizaz/index.html), Taegyoon Kim, [#Lanu Kim](https://catslab-kaist.github.io/people/lanu_kim/index.html)<br> Proceedings of the 9th Widening NLP Workshop, 2025 [Article](https://aclanthology.org/2025.winlp-main.7/)<br>
+_Whose Palestine is it? a topic modelling approach to national framing in academic research_<br> [#Maida Aizaz](https://catslab-kaist.github.io/people/Aizaz_Maida/index.html), Taegyoon Kim, [#Lanu Kim](https://catslab-kaist.github.io/people/lanu_kim/index.html)<br> Proceedings of the 9th Widening NLP Workshop, 2025 [Article](https://aclanthology.org/2025.winlp-main.7/)<br>
 
 _The ethics of generative AI in social science research: a qualitative approach for institutionally grounded AI research ethics_<br>
 June Jeon, Jaehyuk Park, [#Lanu Kim](https://catslab-kaist.github.io/people/lanu_kim/index.html)<br> Technology in Society, 2025 [Article](https://doi.org/10.1016/j.techsoc.2025.102836)<br>

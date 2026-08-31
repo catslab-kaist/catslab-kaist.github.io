@@ -9,7 +9,7 @@ permalink: /news/
   {% assign all_news = site.data.news | sort: 'date' | reverse %}
   <ul style="list-style-position:outside;padding:20px">
     {% for new in all_news %}
-      <li style="margin-bottom: 1.5em;">
+      <li id="news-{{ forloop.index0 }}" style="margin-bottom: 1.5em; scroll-margin-top: 7em;">
         <small>{{ new.date | date: "%B %Y" }}</small><br>
         {{ new.details }}
       </li>
