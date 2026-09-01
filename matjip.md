@@ -5,11 +5,10 @@ layout: page
 ---
 
 ### About this category
-This page curates posts under **Matjip (맛집)** — because let's be honest, everyone in our CATS Lab loves food. We're always on the hunt for good places to eat around KAIST and Daejeon, and every semester we make it our mission to discover new restaurants for our lab lunches.
-
+Because let's be honest, everyone in our CATS Lab loves food. This page tracks good places to eat around KAIST and Daejeon that we've actually been to as a lab — mostly from our lab dinners (회식).
 
 ### Map of featured places
-The map below shows some of the restaurants, cafés and bars we've posted about under Matjip. Each pin marks a place we've actually been to (and documented).
+The map below shows some of the restaurants, cafés and bars we've been to. Each pin marks a place we've actually visited.
 
 <div class="map-wrapper" style="margin: 2rem 0; text-align: center;">
   <iframe 
@@ -23,7 +22,10 @@ The map below shows some of the restaurants, cafés and bars we've posted about 
   </iframe>
 </div>
 
-
+### Places we've been
+* **라쿠엔 (Rakuen)** — Lanu's favorite sushi spot in Daejeon. [Google Maps](https://maps.app.goo.gl/jjesZ8yzCv8yKmR69)
+* **TwelveO** — the place to go when you want to feel a little luxurious. [Google Maps](https://maps.app.goo.gl/Go7JhcqutQMjfAQPA)
+* **만보우노 (Manbouno)** — the 양배추 샐러드 (cabbage salad) here is a must-order. [Google Maps](https://maps.app.goo.gl/P7VRB3HN7WgNjVGw9)
 
 ### Contribution
 * Jiyun Beak
