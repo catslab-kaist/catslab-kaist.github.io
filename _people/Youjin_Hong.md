@@ -4,6 +4,7 @@ position: alumni
 avatar: Hong You-jin.png
 joined: 2023
 ended: 2025
+degree: M.S.
 destination: Data Analyst, Korean Re
 thesis: "Hong, Y. (2024). Contrasting Criminal Judgments: A Comparative Analysis of Publicly Enraging and Indifferent Crimes. Presented at AKSA 2024."
 ---

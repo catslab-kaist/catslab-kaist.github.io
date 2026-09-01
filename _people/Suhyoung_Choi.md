@@ -4,6 +4,7 @@ position: alumni
 avatar: Choi_Suh-young.png
 joined: 2023
 ended: 2025
+degree: M.S.
 destination: Reseaech Executive, Kantar Korea
 thesis: "Choi, S.(2024). Exploring When and How Much Annotator Diversity is Necessary for Effective Machine Learning Models. Presented at IC2S2 2024."
 ---

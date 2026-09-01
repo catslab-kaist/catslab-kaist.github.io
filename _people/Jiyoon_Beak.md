@@ -4,6 +4,7 @@ position: alumni
 avatar: Beak_Jiyun.jpg
 joined: 2023
 ended: 2026
+degree: M.S.
 destination:
 thesis:
 ---

@@ -4,6 +4,7 @@ position: alumni
 avatar: yeongtaek_lim.jpg
 joined: 2024
 ended: 2026
+degree: M.S.
 destination:
 thesis:
 ---

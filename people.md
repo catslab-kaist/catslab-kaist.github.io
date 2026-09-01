@@ -83,6 +83,7 @@ permalink: /people/
     <tr>
       <th>Who are they</th>
       <th>When were they here</th>
+      <th>Degree</th>
       <th>Where they went</th>
       <th>Graduate thesis/dissertation</th>
     </tr>
@@ -93,6 +94,7 @@ permalink: /people/
         <tr>
           <td><a href="{{ site.baseurl }}{{ profile.url }}">{{ profile.name }}</a></td>
           <td>{{ profile.joined }} ~ {{ profile.ended }}</td>
+          <td>{{ profile.degree }}</td>
           <td>{{ profile.destination }}</td>
           <td>{{ profile.thesis }}</td>
         </tr>
