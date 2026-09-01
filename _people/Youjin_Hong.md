@@ -23,5 +23,5 @@ thesis: "Hong, Y. (2024). Contrasting Criminal Judgments: A Comparative Analysis
 <i class="fa fa-envelope-o"></i>  `yjhongkr [at] kaist.ac.kr`<br>
 
 ## Publications
-* [working paper]. _Public attention and judicial consistency: how the public drives lower court judges' adherence to guidelines_
-* 2025. _Has higher education become more interdisciplinary? A longitudinal analysis of syllabi using natural language processing._ Humanities and Social Sciences Communications. [Article](https://www.nature.com/articles/s41599-025-06126-7)
+* _Public attention and judicial consistency: how the public drives lower court judges' adherence to guidelines_ [working paper]
+* _Has higher education become more interdisciplinary? A longitudinal analysis of syllabi using natural language processing._ Humanities and Social Sciences Communications, 2025. [Article](https://www.nature.com/articles/s41599-025-06126-7)

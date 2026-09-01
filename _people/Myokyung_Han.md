@@ -22,5 +22,5 @@ Myokyung Han is a Ph.D. student in Digital Humanities and Computational Social S
 <i class="fa fa-envelope-o"></i>  `mk_han [at] kaist.ac.kr`<br>
 
 ## Publications
-* [working paper]. _Uneven automation: AI's impact on software engineering varies by task difficulty and data availability_
-* 2026. _Greedy Leadership Roles: Why Modern Organizations Struggle to Retain Women Leaders._ Asian Journal of Business Ethics 15:189-208. [Article](https://doi.org/10.1007/s13520-025-00250-y)
+* _Uneven automation: AI's impact on software engineering varies by task difficulty and data availability_ [working paper]
+* _Greedy Leadership Roles: Why Modern Organizations Struggle to Retain Women Leaders._ Asian Journal of Business Ethics 15:189-208, 2026. [Article](https://doi.org/10.1007/s13520-025-00250-y)
