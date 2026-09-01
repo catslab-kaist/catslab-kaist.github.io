@@ -28,6 +28,7 @@ Where we've actually been to as a lab.
 * **라쿠엔 (Rakuen)** — Lanu's favorite sushi spot in Daejeon. [Google Maps](https://maps.app.goo.gl/jjesZ8yzCv8yKmR69)
 * **TwelveO** — the place to go when you want to feel a little luxurious. [Google Maps](https://maps.app.goo.gl/Go7JhcqutQMjfAQPA)
 * **만보우노 (Manbouno)** — the 양배추 샐러드 (cabbage salad) here is a must-order. [Google Maps](https://maps.app.goo.gl/P7VRB3HN7WgNjVGw9)
+* **Pizzeria Hapi** — while there's a time limit, still a place to get good pies. [Google Maps](https://maps.app.goo.gl/DkQ5JNWppuAgr784A)
 
 ### Contribution
 * Jiyun Beak

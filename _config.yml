@@ -34,10 +34,6 @@ nav:
     href:           "/people"
   - name:           "matjip"
     href:           "/matjip"
-# - name:           "abstracts"
-#   href:           "/abstracts"
-# - name:           "lab teachings"
-#   href:           "/resources"
 
 # Sass
 sass:
