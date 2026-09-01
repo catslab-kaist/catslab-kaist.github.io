@@ -29,7 +29,7 @@ layout: default
                 {% for new in recent_news limit:5 %}
                   <li>
                     <span>
-                      {{ new.headline }} <a href="/news/#news-{{ forloop.index0 }}">&rarr;</a>
+                      <small>{{ new.date | date: "%Y/%-m" }}</small> — {{ new.headline }} <a href="/news/#news-{{ forloop.index0 }}">&rarr;</a>
                     </span>
                   </li>
                 {% endfor %}
