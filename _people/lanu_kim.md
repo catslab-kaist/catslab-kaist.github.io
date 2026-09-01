@@ -6,7 +6,8 @@ avatar: Kim_Lanu.jpg
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" onerror="this.src='{{site.baseurl}}/images/people/404.jpg';" data-action="zoom">
 
-- _Associate professor, KAIST_
+- _Associate professor, School of Digital Humanities and Computational Social Sciences, KAIST_
+- _Joint Professor, Graduate School of Data Science (GSDS), KAIST_
 - _Sociology, Data Science. Collaborator. Transdisciplinary optimist._
 
 ## About Me
