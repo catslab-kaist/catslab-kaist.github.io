@@ -20,4 +20,4 @@ Our research group is surprisingly diverse. Our interests span sociology, comput
 ### Lab Culture
 
 Our lab is a great spot for anyone who wants to lead their own projects with an open-mind set. Instead of having one big lab project, each person in the lab leads their own individual project and collaborates when needed. 
-While we change spontaneously, in general, we have one weekly lab meeting every Friday where we discuss each lab member’s research progress and scientific writing techniques. We sometimes hang out for something fun such as the annual KAIST strawberry party.
+While we change spontaneously, in general, we have one lab meeting every week where we discuss each lab member’s research progress and scientific writing techniques. We sometimes hang out for something fun such as the annual KAIST strawberry party.
