@@ -6,7 +6,7 @@ joined: 2023
 ended: 2025
 role: M.S.
 destination: Reseaech Executive, Kantar Korea
-thesis: "Choi, S.(2024). Exploring When and How Much Annotator Diversity is Necessary for Effective Machine Learning Models. Presented at IC2S2 2024."
+thesis: "Exploring When and How Much Annotator Diversity is Necessary for Effective Machine Learning Models"
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" onerror="this.src='{{site.baseurl}}/images/people/404.jpg';" data-action="zoom">
