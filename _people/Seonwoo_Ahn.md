@@ -4,7 +4,7 @@ position: alumni
 joined: 2024
 ended: 2024
 role: Intern
-destination: Exploring what's next
+destination: KAIST DHCSS M.S.
 thesis:
 ---
 

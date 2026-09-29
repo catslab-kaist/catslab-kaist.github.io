@@ -5,7 +5,7 @@ avatar: yeongtaek_lim.jpg
 joined: 2024
 ended: 2026
 role: M.S.
-destination:
+destination: Exploring what's next
 thesis: "The power of entry pathways: a study of professional comparison discourse in a Korean online community"
 ---
 

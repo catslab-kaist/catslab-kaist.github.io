@@ -4,7 +4,7 @@ position: alumni
 joined: 2025
 ended: 2025
 role: Intern
-destination: Exploring what's next
+destination: KAIST CT M.S.
 thesis:
 ---
 

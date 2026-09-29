@@ -5,7 +5,7 @@ avatar: Beak_Jiyun.jpg
 joined: 2023
 ended: 2026
 role: M.S.
-destination:
+destination: Exploring what's next
 thesis: "Is synthetic data helpful to complement survey targeting marginalized minority groups?: topic-specific bias in LLMs' synthetic data comparing majority and minority groups"
 ---
 
