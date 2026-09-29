@@ -3,7 +3,7 @@ name: EunRang Kwon
 position: alumni
 joined: 2025
 ended: 2026
-degree: Postdoctoral researcher
+role: Postdoc
 destination: Research Fellow, 청소년여성정책연구원
 thesis:
 ---

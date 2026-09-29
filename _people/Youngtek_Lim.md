@@ -4,9 +4,9 @@ position: alumni
 avatar: yeongtaek_lim.jpg
 joined: 2024
 ended: 2026
-degree: M.S.
+role: M.S.
 destination:
-thesis:
+thesis: "The power of entry pathways: a study of professional comparison discourse in a Korean online community"
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" onerror="this.src='{{site.baseurl}}/images/people/404.jpg';" data-action="zoom">

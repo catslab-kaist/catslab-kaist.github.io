@@ -4,7 +4,8 @@ permalink: /people/
 ---
 
 {% assign people_sorted = site.people | sort: 'joined' %}
-{% assign role_array = "pi|postdoc|gradstudent|researchstaff|visiting|others|intern|alumni" | split: "|" %}
+{% assign alumni_sorted = people_sorted | where: 'position', 'alumni' | sort: 'ended' | reverse %}
+{% assign role_array = "pi|postdoc|gradstudent|researchstaff|visiting|others|alumni" | split: "|" %}
 
 {% for role in role_array %}
 
@@ -28,14 +29,12 @@ permalink: /people/
 <h3>Visiting Scholars</h3>
  {% elsif role == 'others' %}
 <h3>Honorary Members</h3>
- {% elsif role == 'intern' %}
-<h3>Interns</h3>
  {% elsif role == 'alumni' %}
 <h3>Alumni</h3>
 {% endif %}
 </div>
 
-{% if role != 'alumni' and role != 'intern' %}
+{% if role != 'alumni' %}
 <div class="content list people">
   {% for profile in people_sorted %}
     {% if profile.position contains role %}
@@ -53,29 +52,6 @@ permalink: /people/
   {% endfor %}
 </div>
 <hr>
-{% elsif role == 'intern' %}
-<table>
-  <thead>
-    <tr>
-      <th>Who are they</th>
-      <th>When were they here</th>
-      <th>Where they went</th>
-    </tr>
-  </thead>
-  <tbody>
-    {% for profile in people_sorted %}
-      {% if profile.position contains 'intern' %}
-        <tr>
-          <td>{{ profile.name }}</td>
-          <td>{% if profile.ended %}{{ profile.joined }} ~ {{ profile.ended }}{% else %}{{ profile.joined }}{% endif %}</td>
-          <td>{{ profile.destination }}</td>
-        </tr>
-      {% endif %}
-    {% endfor %}
-  </tbody>
-</table>
-<hr>
-
 {% else %}
 
 <table>
@@ -83,22 +59,20 @@ permalink: /people/
     <tr>
       <th>Who are they</th>
       <th>When were they here</th>
-      <th>Degree</th>
+      <th>Role</th>
       <th>Where they went</th>
       <th>Graduate thesis/dissertation</th>
     </tr>
   </thead>
   <tbody>
-    {% for profile in people_sorted %}
-      {% if profile.position contains 'alumni' %}
-        <tr>
-          <td><a href="{{ site.baseurl }}{{ profile.url }}">{{ profile.name }}</a></td>
-          <td>{{ profile.joined }} ~ {{ profile.ended }}</td>
-          <td>{{ profile.degree }}</td>
-          <td>{{ profile.destination }}</td>
-          <td>{{ profile.thesis }}</td>
-        </tr>
-      {% endif %}
+    {% for profile in alumni_sorted %}
+      <tr>
+        <td><a href="{{ site.baseurl }}{{ profile.url }}">{{ profile.name }}</a></td>
+        <td>{% if profile.ended %}{{ profile.joined }} ~ {{ profile.ended }}{% else %}{{ profile.joined }}{% endif %}</td>
+        <td>{{ profile.role }}</td>
+        <td>{{ profile.destination }}</td>
+        <td>{{ profile.thesis }}</td>
+      </tr>
     {% endfor %}
   </tbody>
 </table>
