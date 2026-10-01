@@ -22,5 +22,5 @@ Myokyung Han is a Ph.D. student in Digital Humanities and Computational Social S
 <i class="fa fa-envelope-o"></i>  `mk_han [at] kaist.ac.kr`<br>
 
 ## Publications
-* _Uneven automation: AI's impact on software engineering varies by task difficulty and data availability_ [working paper]
+* _The Uneven Decline of Collective Knowledge Production: Evidence from Stack Overflow After Generative AI._ arXiv preprint, 2026. [Article](https://arxiv.org/abs/2609.36069)
 * _Greedy Leadership Roles: Why Modern Organizations Struggle to Retain Women Leaders._ Asian Journal of Business Ethics 15:189-208, 2026. [Article](https://doi.org/10.1007/s13520-025-00250-y)

@@ -12,8 +12,8 @@ Our publications are grouped below by research theme, so you can get a sense of 
 ### Technology and society
 We study rapidly evolving technologies and their social impacts, using computational methods, ethnography, interviews, and surveys to explore technological change and its implications for social inequality.
 
-_Uneven automation: AI's impact on software engineering varies by task difficulty and data availability_ [working paper]<br>
-[#Myokyung Han](https://catslab-kaist.github.io/people/Myokyung_Han/index.html), Jeewoon Hong, Taegyoon Kim, Jinhyuk Yun, [#Lanu Kim](https://catslab-kaist.github.io/people/lanu_kim/index.html)<br>
+_The Uneven Decline of Collective Knowledge Production: Evidence from Stack Overflow After Generative AI_<br>
+[#Myokyung Han](https://catslab-kaist.github.io/people/Myokyung_Han/index.html), Taegyoon Kim, Jinhyuk Yun, [#Lanu Kim](https://catslab-kaist.github.io/people/lanu_kim/index.html)<br> arXiv preprint, 2026 [Article](https://arxiv.org/abs/2609.36069)<br>
 
 _Who Delegates to AI? Evidence from 53,000 Agent Configurations_ [working paper]<br>
 [#Hyeongjae Lee](https://catslab-kaist.github.io/people/Hyeongjae_Lee/index.html), [#Jihyang Cheon](https://catslab-kaist.github.io/people/Jihyang_Cheon/index.html), [#Lanu Kim](https://catslab-kaist.github.io/people/lanu_kim/index.html)<br> arXiv preprint, 2026 [Article](https://arxiv.org/abs/2608.20425)<br>
