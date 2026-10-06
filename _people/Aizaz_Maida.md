@@ -25,4 +25,5 @@ Hello! I am a masters student at the Graduate School of Data Science (GSDS), aft
 
 ## Publications
 * _From Affiliation to Attribution: Who Mentions Whom in Science?_ [under review]
+* _Peripheralization through knowledge: rethinking social science via global value chains_ [working paper]
 * _Whose Palestine is it? A topic modelling approach to national framing in academic research._ Proceedings of the 9th Widening NLP Workshop, 2025. [Article](https://aclanthology.org/2025.winlp-main.7/)
