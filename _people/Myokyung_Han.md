@@ -22,5 +22,6 @@ Myokyung Han is a Ph.D. student in Digital Humanities and Computational Social S
 <i class="fa fa-envelope-o"></i>  `mk_han [at] kaist.ac.kr`<br>
 
 ## Publications
+* _Evaluating Bias in LLM-Synthetic Data across Majority and Minority Groups on General and Stigmatized Topics: The Case of Multicultural and Monocultural Adolescents in South Korea._ 5th Workshop on NLP for Positive Impact (EMNLP 2026), 2026. [Article](https://openreview.net/forum?id=cqZ4Mjgq3g)
 * _The Uneven Decline of Collective Knowledge Production: Evidence from Stack Overflow After Generative AI._ arXiv preprint, 2026. [Article](https://arxiv.org/abs/2609.36069)
 * _Greedy Leadership Roles: Why Modern Organizations Struggle to Retain Women Leaders._ Asian Journal of Business Ethics 15:189-208, 2026. [Article](https://doi.org/10.1007/s13520-025-00250-y)

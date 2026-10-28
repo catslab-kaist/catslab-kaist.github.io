@@ -21,5 +21,6 @@ Hyeongjae seeks to explore how technological change and skill development, groun
 <i class="fa fa-envelope-o"></i>  `hyeongjaelee [at] kaist.ac.kr`<br>
 
 ## Publications
+* _Who Counts as “the People”? Measuring Contested Political Concepts from Political Speech using Masked Language Models._ EMNLP 2026, 20314-20325, 2026 (**SAC Highlight Award**). [Article](https://aclanthology.org/2026.emnlp-main.879/)
 * _Who Delegates to AI? Evidence from 53,000 Agent Configurations._ arXiv preprint, 2026. [Article](https://arxiv.org/abs/2608.20425)
 * Lee H, Hong I. _Quantifying the influence of vocational education and training with text embedding and similarity-based networks._ PLoS One 20(8): e0329405, 2025. [Article](https://doi.org/10.1371/journal.pone.0329405)

@@ -21,8 +21,9 @@ Hello, I am Jiyun. I am studying Data Science for my Master's degree. I used to 
 * Marginalized group
 * NLP
 
-## Publication
-* Jiyun Beak, Ludovic Moncla. *Mapping Global Protest Tendencies: Geolocating Trends and Topics Through Wikipedia Analysis.* Second International Workshop on Geographic Information Extraction from Texts (GeoExT), Mar 2024, Glasgow, United Kingdom.
-
 ## Contact
 <i class="fa fa-envelope-o"></i>  `bamjy99 [at] kaist.ac.kr`<br>
+
+## Publications
+* _Evaluating Bias in LLM-Synthetic Data across Majority and Minority Groups on General and Stigmatized Topics: The Case of Multicultural and Monocultural Adolescents in South Korea._ 5th Workshop on NLP for Positive Impact (EMNLP 2026), 2026. [Article](https://openreview.net/forum?id=cqZ4Mjgq3g)
+* Jiyun Beak, Ludovic Moncla. *Mapping Global Protest Tendencies: Geolocating Trends and Topics Through Wikipedia Analysis.* Second International Workshop on Geographic Information Extraction from Texts (GeoExT), Mar 2024, Glasgow, United Kingdom.

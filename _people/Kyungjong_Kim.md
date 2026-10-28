@@ -22,4 +22,5 @@ I am also a police officer who wants to contribute to a safer society by analyzi
 <i class="fa fa-envelope-o"></i>  `leeyeongul [at] kaist.ac.kr`<br>
 
 ## Publications
+* _A call log-based early screening model for voice phishing risk numbers: focusing on police–telecommunications cooperation._ The Journal of Police Policies (치안정책연구) 40(3): 343-376 (in Korean), 2026. [Article](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003388803)
 * _Proactive detection of voice phishing networks using call log analysis and machine learning._ Scientific Reports 16(26036), 2026. [Article](https://www.nature.com/articles/s41598-026-54515-y)
