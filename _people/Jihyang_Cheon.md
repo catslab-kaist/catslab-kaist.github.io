@@ -22,4 +22,5 @@ She aims to grow as an interdisciplinary researcher, guided by intellectual curi
 <i class="fa fa-envelope-o"></i>  `jhcheon [at] kaist.ac.kr`<br>
 
 ## Publications
+* _From Materials to Observations: Generative AI and the Validation Problem in Social Science Methods._ [working paper]
 * _Who Delegates to AI? Evidence from 53,000 Agent Configurations._ arXiv preprint, 2026. [Article](https://arxiv.org/abs/2608.20425)

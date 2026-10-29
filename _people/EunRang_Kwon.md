@@ -9,3 +9,6 @@ thesis:
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" onerror="this.src='{{site.baseurl}}/images/people/404.jpg';" data-action="zoom">
+
+## Publications
+* _Accountability and Discretion: How Offense Type Shapes Judicial Adherence to Advisory Sentencing Guidelines in South Korea_ [working paper]

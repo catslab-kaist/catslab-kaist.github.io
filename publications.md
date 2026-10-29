@@ -35,6 +35,9 @@ Hansen, Ryan N., Basil Matthew Saour, Brian Serafini, Blake Hannaford, [#Lanu Ki
 ### Gen AI and social science methods
 We study language models and generative AI as tools for social science, from measuring contested concepts in text to working with synthetic data, and the methodological questions they raise.
 
+_From Materials to Observations: Generative AI and the Validation Problem in Social Science Methods_ [working paper]<br>
+[#Lanu Kim](https://catslab-kaist.github.io/people/lanu_kim/index.html), [#Maida Aizaz](https://catslab-kaist.github.io/people/Aizaz_Maida/index.html), [#Jihyang Cheon](https://catslab-kaist.github.io/people/Jihyang_Cheon/index.html)<br>
+
 _Who Counts as “the People”? Measuring Contested Political Concepts from Political Speech using Masked Language Models_<br>
 [#Hyeongjae Lee](https://catslab-kaist.github.io/people/Hyeongjae_Lee/index.html), [#Seonwoo Ahn](https://catslab-kaist.github.io/people/Seonwoo_Ahn/index.html), Sunwoo Kwak, June Jeon, Jisung Yoon, Taegyoon Kim<br> Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP), 20314-20325, 2026 (**SAC Highlight Award**) [Article](https://aclanthology.org/2026.emnlp-main.879/)<br>
 
@@ -101,8 +104,8 @@ _Networking a career: individual adaptation in the network ecology of faculty_<b
 ### Data science for law and crime
 Legal text data is highly unstructured, and everyday legal practice doesn't always fit mathematical models. We explore how data science can be applied to law and crime, and examine what AI can — and cannot — do in this space.
 
-_Public attention and judicial consistency: how the public drives lower court judges' adherence to guidelines_ [working paper]<br>
-[#Youjin Hong](https://catslab-kaist.github.io/people/Youjin_Hong/index.html) and [#Lanu Kim](https://catslab-kaist.github.io/people/lanu_kim/index.html)<br>
+_Accountability and Discretion: How Offense Type Shapes Judicial Adherence to Advisory Sentencing Guidelines in South Korea_ [working paper]<br>
+[#EunRang Kwon](https://catslab-kaist.github.io/people/EunRang_Kwon/index.html), [#Youjin Hong](https://catslab-kaist.github.io/people/Youjin_Hong/index.html), [#Lanu Kim](https://catslab-kaist.github.io/people/lanu_kim/index.html)<br>
 
 _A call log-based early screening model for voice phishing risk numbers: focusing on police–telecommunications cooperation_<br>
 [#Kyungjong Kim](https://catslab-kaist.github.io/people/Kyungjong_Kim/index.html), [#Lanu Kim](https://catslab-kaist.github.io/people/lanu_kim/index.html)<br> The Journal of Police Policies (치안정책연구) 40(3): 343-376 (in Korean), 2026 [Article](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003388803)<br>
