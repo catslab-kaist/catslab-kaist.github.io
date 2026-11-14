@@ -1,13 +1,13 @@
 ---
-title: Lab Meetings
-permalink: /presentation/
+title: Events
+permalink: /events/
 ---
-### Upcoming lab meetings
+## Lab meetings
 Every week, we get together (mix of virtual and in person) for lab presentations (with food! sometimes).
 On a rotating basis, each member of the lab speaks and teaches about something they know or shares their work. 
 Anything, really. Relevant and interesting topics, good skills to know, nice Python packages, CSS trends, new findings and literature reviews... anything!
 
-## Fall 2026
+### Fall 2026
 
 <details markdown="1" open>
   <br>
@@ -19,7 +19,7 @@ Schedule to be announced.
 
 ---
 
-## Spring 2026
+### Spring 2026
 
 <details markdown="1">
   <br>
@@ -40,7 +40,7 @@ Schedule to be announced.
 
 ---
 
-## Fall 2025
+### Fall 2025
 
 <details markdown="1">
   <br>
@@ -58,3 +58,18 @@ Schedule to be announced.
 | 12/04 | Jihyang Cheon, EunRang Kwon   | N4 1334  | 13:00 ~ |
 
 </details>
+
+---
+
+## Talks & materials
+Slides and materials from talks given by lab members outside the lab: invited talks, conference presentations, and more.
+
+<div class="content list">
+  {% for post in site.posts %}
+    <div class="list-item">
+      <p class="list-post-title">
+        <a href="{{ site.baseurl }}{{ post.url }}">- {{ post.title }}</a> (<small>{{post.date | date: "%m/%d/%y" }}</small>)
+      </p>
+    </div>
+  {% endfor %}
+</div>
