@@ -8,6 +8,7 @@ avatar: Kim_Lanu.jpg
 
 - _Associate professor, School of Digital Humanities and Computational Social Sciences, KAIST_
 - _Joint Professor, Graduate School of Data Science (GSDS), KAIST_
+- _Visiting Scholar, Stanford University (2026-2027)_
 - _Sociology, Data Science. Collaborator. Transdisciplinary optimist._
 
 ## About Me
